@@ -1,0 +1,2 @@
+Códigos fonte das partes principais dos projetos do bootcamp do Inter na DIO. São os códigos originais providos pela DIO, 
+alguns com pequenas modificações minhas de quando estudava.
